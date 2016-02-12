@@ -1,0 +1,1 @@
+Probably want to contribute to an open source project. Maybe firefox or something? I also use VLC and tmux a lot. I prefer the command line to graphical projects though, so contributing to tmux or an irc bouncer or something would be interesting. 
