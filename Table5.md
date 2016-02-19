@@ -7,3 +7,6 @@ I really want to do something with my watch. I have watch face that ive been usi
 # Joseph Iaquinto
 
  I want to work with the Amazon Echo and Alexa speech recognition or Raspberry Pi/ PiSoc. At HackRPI I worked on a team that made a skill for the Amazon Echo and Github. The Raspberry Pi has a large open source community that I could contribute to so that would be beneficial. 
+ 
+# Alwin Joy
+Would like to create an extension for google chrome that allows YACS.me to pull and display information from ratemyprofessor to give users a better idea of what the classes they're looking are like. 
