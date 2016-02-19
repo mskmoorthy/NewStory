@@ -28,3 +28,14 @@ Sheet Music Library and Transposing Software- software that would contain a libr
 
 
 Chrome Extension for controlling music playing from inside browser
+
+
+
+Steven Scally
+
+     - Mopidy: https://github.com/mopidy/mopidy
+     
+     - an extensible music server implemented with Python
+    
+    
+     - Music Newsfeed - software that compiles new music from a series of specified sites (Youtube, Soundcloud, Facebook, artist's websites) and updates you when followed artists release new music
