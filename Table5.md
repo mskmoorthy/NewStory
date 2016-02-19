@@ -16,3 +16,6 @@ Mobile, Social, or Financial Application
 
 #Kevin Stoner
 I would like to do a simple website or a VLC plugin to connect to chromecast.
+
+#Morgan Larkin
+I'm thinking of possibly doing something using Riot Games' API
