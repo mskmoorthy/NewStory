@@ -8,4 +8,3 @@ Jonathan Wrona: **Table Tome**
 
 Cameron: My idea is to automate water wheels and remotely control the flow direction of estuaries. Also YACS.
 
-Owen Stenson: Hopefully contribute to some open source project (probably some a linux command-line tool that I use often, such as tmux/livestreamer/znc).

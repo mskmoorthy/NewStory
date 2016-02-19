@@ -10,3 +10,6 @@
 * Louis Silvestro
 	* Contribute to an open source podcast manager for desktop operating systems,
        such as VLC or Banshee
+
+* Owen Stenson: 
+    * Hopefully contribute to some open source project (probably some a linux command-line tool that I use often, such as tmux/livestreamer/znc).
