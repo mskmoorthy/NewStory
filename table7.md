@@ -7,3 +7,7 @@ Adeet Phanse
 Jacob Arriola
 * Educational Tool
 * Comparative database
+
+Haoyan Bu
+* Group event planner
+* Positive photo organizer
