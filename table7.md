@@ -11,3 +11,6 @@ Jacob Arriola
 Haoyan Bu
 * Group event planner
 * Positive photo organizer
+
+Alvin Leung
+* Android game
