@@ -27,7 +27,7 @@ Ryan Manske
 Sheet Music Library and Transposing Software- software that would contain a library of sheet music from songs- could be searched and transposed and sorted by type or related.
 
 
-Chrome Extension for controlling music playing from inside browser
+Chrome Extension for combining YACS with RateMyProfessor.com
 
 
 
