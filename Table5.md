@@ -10,3 +10,9 @@ I really want to do something with my watch. I have watch face that ive been usi
  
 # Alwin Joy
 Would like to create an extension for google chrome that allows YACS.me to pull and display information from ratemyprofessor to give users a better idea of what the classes they're looking are like. 
+
+#Paul Sambolin
+Mobile, Social, or Financial Application
+
+#Kevin Stoner
+I would like to do a simple website or a VLC plugin to connect to chromecast.
