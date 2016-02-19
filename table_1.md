@@ -13,3 +13,6 @@
 
 * Owen Stenson: 
     * Hopefully contribute to some open source project (probably some a linux command-line tool that I use often, such as tmux/livestreamer/znc).
+
+* Cheng Jiang:
+    * Contribute to some open source project
